@@ -1,7 +1,7 @@
 #ifndef __SQLIST_
 #define __SQLIST_
 
-#include "head.h"
+#include "dshead.h"
 
 #define	LIST_INIT_SIZE 100
 #define LISTINCREMENT 10
